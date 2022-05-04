@@ -1,15 +1,7 @@
 {
   "name": "nestjs",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "scripts": {
-    "cp": "nest new"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@nestjs/cli": "^8.2.5"
-  }
+  "author": "rym49 <hatanakaryoma.130@gmail.com>",
+  "license": "MIT"
 }

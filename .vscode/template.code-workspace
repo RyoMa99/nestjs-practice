@@ -1,0 +1,72 @@
+{
+  "folders": [
+    {
+      "name": "root",
+      "path": ".."
+    }
+  ],
+  "settings": {
+	},
+  "extensions": {
+    "recommendations": [
+      // 汎用
+      // trailing space ・ colorizer bracketは公式設定
+      "ms-ceintl.vscode-language-pack-ja",
+      "vscode-icons-team.vscode-icons",
+      "editorconfig.editorconfig",
+      "formulahendry.auto-rename-tag",
+      "streetsidesoftware.code-spell-checker",
+      "mosapride.zenkaku",
+      "satokaz.vscode-bs-ctrlchar-remover",
+      "chrmarti.regex",
+      "richie5um2.vscode-sort-json",
+      "redhat.vscode-yaml",
+      "mikestead.dotenv",
+      "yzhang.markdown-all-in-one",
+      "mhutchie.git-graph",
+      "eamodio.gitlens",
+      "donjayamanne.githistory",
+      "fabiospampinato.vscode-todo-plus",
+      "wayou.vscode-todo-highlight",
+      "jebbs.plantuml",
+      "hediet.vscode-drawio",
+      "ms-vscode-remote.remote-containers",
+      "MS-vsliveshare.vsliveshare",
+      // windows
+      "ms-vscode-remote.remote-wsl",
+      // docker・k8s
+      "ms-azuretools.vscode-docker",
+      "ms-kubernetes-tools.vscode-kubernetes-tools",
+      // terraform
+      "hashicorp.terraform",
+      // Front
+      "abusaidm.html-snippets",
+      "formulahendry.auto-close-tag",
+      "esbenp.prettier-vscode",
+      "gencer.html-slim-scss-css-class-completion",
+      "stylelint.vscode-stylelint",
+      "sysoev.language-stylus",
+      "xabikos.JavaScriptSnippets",
+      "wix.vscode-import-cost",
+      "ionutvmi.path-autocomplete",
+      "dbaeumer.vscode-eslint",
+      "humao.rest-client",
+      "arjun.swagger-viewer",
+      "graphql.vscode-graphql",
+      // Vue
+      "octref.vetur",
+      "dariofuzinato.vue-peek",
+      "titiaiev.vue-docs",
+      // "hollowtree.vue-snippets", // Vue3
+      "nicholashsiang.vscode-vue2-snippets", // Vue2
+      // Nest JS
+      "ashinzekene.nestjs",
+      // c++
+      "ms-vscode.cpptools",
+      // java
+      "vscjava.vscode-java-pack",
+      // python
+      "ms-python.python",
+    ],
+  },
+}
